@@ -36,8 +36,7 @@ footer {
     
 }
 
-.child {
-    
+.parent > h2, h3, h4 {
     display: inline-block;
 }
 
@@ -52,7 +51,7 @@ aside {
     
 }
 
-footer.below {
+.below {
 
     clear: both;
     
